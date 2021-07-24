@@ -1,0 +1,15 @@
+Package: dse
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: stan
+Installed-Size: 1024
+Filename: ./dse.deb
+Size: 10204
+MD5sum: 1f94ef7f636fc9efd219bc19941ab998
+SHA1: 1158f8abf9708480b06f1540823cffd58911fda1
+SHA256: 53980c701145548912e3681dc6328c08942675d0bcfe43cedbd5df12d47edb48
+Section: custom
+Priority: optional
+Description: some description
+
